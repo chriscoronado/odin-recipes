@@ -1,0 +1,21 @@
+.image {
+    width:700px;
+    height:auto;
+}
+li,p,h1,h2 {
+    font-size:20px;
+    font-family:sans-serif,"Times New Roman";
+}
+h1,h2{
+    background-color:lightblue;
+    text-align:center;
+    font-size:30px;
+}
+a{
+    font-size:20px
+}
+#lasagna-pic{
+    height:auto;
+    width:700px;
+}
+
